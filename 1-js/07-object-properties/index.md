@@ -1,3 +1,3 @@
-# Object properties configuration
+# Настройка свойств объекта
 
-In this section we return to objects and study their properties even more in-depth.
+В этом разделе мы вернемся к объектам и изучим их свойства еще глубже.
